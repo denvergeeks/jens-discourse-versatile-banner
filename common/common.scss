@@ -26,11 +26,12 @@
       order: -2;
     }
   }
-
+  /*
   #main-outlet {
     max-width: calc(100% - 16px);
     width: $large-width;
   }
+  */
 }
 
 @if $swap_default_positioning == "true" {

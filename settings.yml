@@ -83,7 +83,7 @@ plugin_outlet:
     - 'above-site-header'
     - 'below-site-header'
     - 'above-main-container'
-  description: below-site-header puts it above the sidebar, above-main-container puts it above the content to the side of the sidebar
+  description: above-site-header puts it above the header, below-site-header puts it above the sidebar, above-main-container puts it above the content to the side of the sidebar
 banner_background_image:
   type: string
   default: 'https://i.imgur.com/k7SnZth.jpg'

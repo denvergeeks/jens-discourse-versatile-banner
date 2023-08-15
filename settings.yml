@@ -80,6 +80,7 @@ plugin_outlet:
   type: enum
   default: 'below-site-header'
   choices:
+    - 'above-site-header'
     - 'below-site-header'
     - 'above-main-container'
   description: below-site-header puts it above the sidebar, above-main-container puts it above the content to the side of the sidebar
